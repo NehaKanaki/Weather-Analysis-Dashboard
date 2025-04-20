@@ -49,7 +49,7 @@ pip install -r requirements.txt
 ### 3.Set your API key securely using .env
 Create a .env file in the root directory:
 ```
-- API_KEY=your_openweathermap_api_key
+ API_KEY=your_openweathermap_api_key
 ```
 ### 4. Run the app
 ```
