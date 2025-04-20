@@ -98,7 +98,8 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-api_key = os.getenv("API_KEY")
+# api_key = os.getenv("API_KEY")
+api_key = st.secrets["api_key"]
 
 # Sidebar input: allows user to enter a city name
 st.sidebar.markdown("## 📍 Location")
