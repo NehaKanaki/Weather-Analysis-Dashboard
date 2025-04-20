@@ -5,6 +5,8 @@ An interactive, modern weather dashboard built with **Streamlit**, **Plotly**, a
 ---
 
 ## 📸 Demo
+Check out the live demo of the Weather Dashboard here:
+[Demo](https://weather-analysis-dashboard.streamlit.app/)
 
 ![Weather Dashboard Screenshot](demo-screenshot.png) <!-- Add your screenshot path -->
 
